@@ -40,7 +40,7 @@ I got started with [**Freelancing**](https://www.freelancer.com/freelancers/u/pr
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![DJango](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![.NET] (https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Front-End Development
 
@@ -85,8 +85,8 @@ I got started with [**Freelancing**](https://www.freelancer.com/freelancers/u/pr
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=PassionPotter.PassionPotter" alt="visitors">
 </div>
+
 ## 🔗 Links
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/PassionPotter)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/PassionPotter)
-[![StackOverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/21122465/passionate-potter)
