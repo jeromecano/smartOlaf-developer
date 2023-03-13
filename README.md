@@ -1,8 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🚀 About Me
-
-🎓 I am Passion Potter, a **Full Stack Web Developer** with over 6 years of experience in versatile web development.
+🎓 I am a **Full Stack Web Developer** with over 6 years of experience in versatile web development.
 I also purchased my Bacheolor in **Computer Science & Engineering** in 2017.
 
 👨‍💻 I have a proven tracken record of delivering complicated features requiring high availability and reliability.
