@@ -83,9 +83,12 @@ I got started with [**Freelancing**](https://www.freelancer.com/u/vøslavdzynia1
     <img src="https://github-readme-stats.vercel.app/api?username=PassionPotter&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true&hide=contribs,prs,issues&show_icons=true" alt="Passion Potter's GitHub Stats">
 </div>
 
+## 📈 Most used Languages
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PassionPotter&langs_count=8" alt="Most used Languages">
 </div>
+
 ## 🔗 Links
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/PassionPotter)
