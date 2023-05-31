@@ -80,9 +80,9 @@ I got started with [**Freelancing**](https://www.freelancer.com/u/vøslavdzynia1
 ## 📈 Stats
 
 <div align="center">
-    <img src=https://github-readme-stats.vercel.app/api?username=PassionPotter&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true&hide=contribs,prs" alt="Passion Potter's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=PassionPotter&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true&hide=contribs,prs" alt="Passion Potter's GitHub Stats">
     <br />
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PassionPotter&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PassionPotter&langs_count=8" alt="Most used Languages">
 </div>
 
 ## 🔗 Links
