@@ -80,7 +80,7 @@ I got started with [**Freelancing**](https://www.freelancer.com/u/vøslavdzynia1
 ## 📈 Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PassionPotter&show_icons=true&hide_border=true" alt="Passion Potter's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=PassionPotter&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true" alt="Passion Potter's GitHub Stats">
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=PassionPotter.PassionPotter" alt="visitors">
 </div>
