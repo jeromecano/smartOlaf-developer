@@ -1,8 +1,8 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🚀 About Me
-🎓 I am a **Full Stack Web Developer** with over 7 years of experience in versatile web development.
-I also purchased my Bacheolor in **Computer Science & Engineering** in 2015.
+🎓 I am a **Full Stack Web Developer** with over 5 years of experience in versatile web development.
+I also purchased my Bacheolor in **Computer Science & Engineering** in 2019.
 
 👨‍💻 I have a proven tracken record of delivering complicated features requiring high availability and reliability.
 
