@@ -12,7 +12,6 @@ I'm dedicated to understanding business needs, giving realistic estimates that I
 
 I am really enthusiastic about learning new technology.
 I learned **Progressive Web App(PWA)**, **Micro-Frontend Architecture** and **Blockchain development & DApps**
-I got started with [**Freelancing**](https://www.freelancer.com/u/vøslavdzynia1).
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **piano**, **football**, and **swimming**.
 
@@ -88,8 +87,3 @@ I got started with [**Freelancing**](https://www.freelancer.com/u/vøslavdzynia1
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PassionPotter&langs_count=8" alt="Most used Languages">
 </div>
-
-## 🔗 Links
-
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/PassionPotter)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/PassionPotter)
